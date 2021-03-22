@@ -1,0 +1,6 @@
+My extra.txt tests for exposures of over 100%. Of course, for these sectors to be put into the bad sectors list,
+it is simple, just in the if statement that checks bad errorful data and puts in it into the bad sector list, just also include a check
+to see if the exposure levels must be 100 or less. 
+You won't see this change in process.cpp because I will leave it unchanged for you, but here is test data for exposure levels above 100. 
+In the unchanged process.cpp, it should treat the values over 100 just like any other positive exposure level, but that's my ideas on testing
+this very interesting condition!
