@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: 4assign, Configuration: Debug Win32 ------
+1>MidtermCode.cpp
+1>4assign.vcxproj -> C:\Users\HP\source\repos\4assign\Debug\4assign.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

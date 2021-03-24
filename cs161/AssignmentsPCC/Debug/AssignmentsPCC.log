@@ -1,0 +1,4 @@
+﻿  Midterm.cpp
+  LINK : C:\Users\HP\source\repos\AssignmentsPCC\Debug\AssignmentsPCC.exe not found or not built by the last incremental link; performing full link
+Midterm.obj : error LNK2005: _main already defined in Assignment4.obj
+C:\Users\HP\source\repos\AssignmentsPCC\Debug\AssignmentsPCC.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,3 @@
+﻿  5assig.cpp
+C:\Users\HP\source\repos\5assig\5assig.cpp(58,15): warning C4018:  '<=': signed/unsigned mismatch
+  5assig.vcxproj -> C:\Users\HP\source\repos\5assig\Debug\5assig.exe
